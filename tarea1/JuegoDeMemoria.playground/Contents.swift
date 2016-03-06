@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-
+// tarea 1
 import Cocoa
 
 // constante para saber si es divisible entre 5
